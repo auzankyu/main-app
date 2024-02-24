@@ -1,0 +1,21 @@
+{
+    "dev": {
+        "translation": {
+            "key": "value-dev"
+        }
+    },
+    "en": {
+        "translation": {
+            "key": "value-en",
+            "title": "Welcome to Dummy Project",
+            "nested": {
+                "first": "satu"
+            }
+        }
+    },
+    "en-US": {
+        "translation": {
+            "key": "value-enUS"
+        }
+    }
+}
